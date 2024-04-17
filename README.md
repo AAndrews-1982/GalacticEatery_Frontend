@@ -1,3 +1,7 @@
+<img width="1440" alt="Screen Shot 2024-04-17 at 10 44 24 AM" src="https://github.com/AAndrews-1982/GalacticEatery_Frontend/assets/116847683/94167f3c-4e55-4c8f-96dc-5a8f4247d956">
+
+
+
 # Frontend Project - Working with API Backend
 
 This is the repository for the front-end of a web application designed to interact with a backend API. The project is built using HTML, CSS, JavaScript, and Bootstrap. Additionally, custom logo design and image editing have been incorporated to enhance the visual appeal.
